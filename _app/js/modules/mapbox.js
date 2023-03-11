@@ -1,4 +1,4 @@
-import { accessToken } from "../../../env.js";
+import { accessToken } from "../env.js";
 import fetchStations from "./fetchStations.js";
 
 export default async function mapbox() {
